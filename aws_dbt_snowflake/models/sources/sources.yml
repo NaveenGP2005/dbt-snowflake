@@ -1,6 +1,6 @@
 sources:
   - name: staging
-    database: AIRBNB  
+    database: Airbnb  
     schema: staging  
     tables:
       - name: listings

@@ -8,7 +8,7 @@ wheels/
 
 # Virtual environments
 .dbt-env
-
+dbt-env
 logs/
 target/
 dbt_packages/
