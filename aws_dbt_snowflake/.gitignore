@@ -2,3 +2,5 @@
 target/
 dbt_packages/
 logs/
+profiles.yml
+aws_dbt_snowflake/profiles.yml
