@@ -12,3 +12,5 @@ dbt-env
 logs/
 target/
 dbt_packages/
+profiles.yml
+aws_dbt_snowflake/profiles.yml
